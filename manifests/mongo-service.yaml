@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: mongo
-  namespace: techkedgeconnect
+  namespace: techkconnect
   labels:
     role: db
     env: demo
